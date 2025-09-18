@@ -2,8 +2,9 @@ body {
 color:white;
 background:black;
 }
-header {
 
-boorder-bottom: solid 2px rgb(42, 122, 228);
+header {
+border-bottom: solid 2px rgb(42, 122, 228);
+padding: 20px;
 
 }
