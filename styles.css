@@ -40,6 +40,6 @@ img {
 
 .categoria-videos{
 display: flex;
-overflow: auto;
+overflow-x: auto;
 
 }
