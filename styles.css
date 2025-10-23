@@ -3,6 +3,7 @@ color:white;
 background:black;
 margin: 0px;
 font-family: "Chakra Petch", sans-serif;
+margin-bottom: 100px;
 }
 
 header {
@@ -44,6 +45,7 @@ gap: 10px;
 .categoria{
 padding-left: 20px;
 padding-left: 20px;
+margin-top: 50px;
 }
 
 .categoria-videos img {
